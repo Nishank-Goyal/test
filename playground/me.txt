@@ -1,0 +1,5 @@
+{{#user}
+Name: Nishank Goyal 
+Skills: HTML, CSS, JS, Node.js, Express.js, EJS, JQuery, REST API, SQL, React.js, Pyton, CPP
+Email: nishankgoyal427@gmail.com
+{{/user}}
